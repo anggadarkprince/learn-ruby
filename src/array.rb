@@ -12,6 +12,7 @@ digits = 0..9
 nums = digits.to_a
 print(nums, "\n")
 
+# hash key-value based
 number = {
     'david' => '3453',
     'ray' => '4532',
